@@ -1,0 +1,32 @@
+{
+  "name": "speechlab-agentic-framework",
+  "version": "1.0.0",
+  "description": "Minimal agentic framework wrapping SpeechLab's dubbing and translation API in TypeScript, with LLM-based NLP.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "jest --coverage",
+    "dev": "tsc -w"
+  },
+  "keywords": [
+    "speechlab",
+    "agent",
+    "dubbing",
+    "translation",
+    "typescript",
+    "openai"
+  ],
+  "author": "REDACTED",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.5.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.4",
+    "@types/node": "^18.17.6",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.2.2"
+  }
+} 
