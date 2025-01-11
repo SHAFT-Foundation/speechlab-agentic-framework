@@ -1,6 +1,6 @@
 # SpeechLab Agentic Framework
 
-📚 [Documentation](https://shaft-foundation.github.io/SpeechlabAgentsDocs/)
+📚 [General Framework Information](https://shaft-foundation.github.io/SpeechlabAgentsDocs/)
 
 A minimal proof-of-concept in **TypeScript** for interacting with [SpeechLab's Dubbing & Translation API](https://translate-api.speechlab.ai). Demonstrates:
 
