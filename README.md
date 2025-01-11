@@ -2,7 +2,7 @@
 
 📚 [Documentation](https://shaft-foundation.github.io/SpeechlabAgentsDocs/)
 
-A minimal proof-of-concept in **TypeScript** for interacting with [SpeechLab's Dubbing & Translation API](https://translate-api.speechlab.ai). Demonstrates:
+A basic frameworkin **TypeScript** for interacting with [SpeechLab's Dubbing & Translation API](https://translate-api.speechlab.ai). Demonstrates:
 
 - **Authentication** via `/v1/auth/login`
 - **Project Creation & Dubbing** via `/v1/projects/createProjectAndDub`
