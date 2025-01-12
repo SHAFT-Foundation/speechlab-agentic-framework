@@ -2,7 +2,7 @@
 
 📚 [General Framework Information](https://shaft-foundation.github.io/SpeechlabAgentsDocs/)
 
-A basic frameworkin **TypeScript** for interacting with [SpeechLab's Dubbing & Translation API](https://translate-api.speechlab.ai). Demonstrates:
+A basic frameworkin **TypeScript** for interacting with [SpeechLab's Dubbing & Translation API](https://www.postman.com/universal-meteor-923528/speechlab-enterprise-intergration-api/collection/cqobhl0/projects). Demonstrates:
 
 - **Authentication** via `/v1/auth/login`
 - **Project Creation & Dubbing** via `/v1/projects/createProjectAndDub`
